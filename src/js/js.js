@@ -1,0 +1,1 @@
+alert("Il javascript funziona!!");
